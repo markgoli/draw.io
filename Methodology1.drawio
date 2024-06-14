@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-14T12:56:16.999Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="EDRSyCb0_d9cRVH9qo43" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-14T12:58:45.698Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="U0sGSkj25WYj8k9D2yyk" version="24.5.4" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="880" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -19,10 +19,10 @@
             <mxPoint x="381" y="120" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2dmpp8sBlBEj3byJu3uw-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/web-development-and-studio/512/46_Analysis_analytic_analytics_chart_data_graph-128.png;imageBackground=#000000;" vertex="1" parent="1">
+        <mxCell id="2dmpp8sBlBEj3byJu3uw-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/web-development-and-studio/512/46_Analysis_analytic_analytics_chart_data_graph-128.png;imageBackground=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="300" y="85" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="2dmpp8sBlBEj3byJu3uw-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/web-development-and-studio/512/30_Graph_Analysis_analytic_analytics_chart_data-128.png;imageBackground=#000000;" vertex="1" parent="1">
+        <mxCell id="2dmpp8sBlBEj3byJu3uw-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/web-development-and-studio/512/30_Graph_Analysis_analytic_analytics_chart_data-128.png;imageBackground=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="340" y="290" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="2dmpp8sBlBEj3byJu3uw-7" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;" vertex="1" parent="1">
@@ -37,7 +37,7 @@
         <mxCell id="2dmpp8sBlBEj3byJu3uw-10" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_sitewise_asset_model;" vertex="1" parent="1">
           <mxGeometry x="340" y="465.5" width="72.5" height="72.5" as="geometry" />
         </mxCell>
-        <mxCell id="2dmpp8sBlBEj3byJu3uw-11" value="&lt;b&gt;Model Validation&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;and Testing&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="2dmpp8sBlBEj3byJu3uw-11" value="&lt;b&gt;Model Validation&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;and Testing&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="620" y="480" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2dmpp8sBlBEj3byJu3uw-12" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#C925D1;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.developer_tools;" vertex="1" parent="1">
