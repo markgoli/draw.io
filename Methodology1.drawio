@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-14T12:21:01.135Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="JANxGZSvIwQX45WhjN--" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-14T12:23:21.198Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="ZlNCU156DJyylsTGjKCJ" version="24.5.4" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="880" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -37,8 +37,8 @@
         <mxCell id="2dmpp8sBlBEj3byJu3uw-10" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_sitewise_asset_model;" vertex="1" parent="1">
           <mxGeometry x="372" y="440" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="2dmpp8sBlBEj3byJu3uw-11" value="Validation&lt;div&gt;&amp;nbsp;and Testing&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="600" y="428" width="100" height="40" as="geometry" />
+        <mxCell id="2dmpp8sBlBEj3byJu3uw-11" value="Model Validation&lt;div&gt;&amp;nbsp;and Testing&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="530" y="459" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2dmpp8sBlBEj3byJu3uw-12" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#C925D1;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.developer_tools;" vertex="1" parent="1">
           <mxGeometry x="310" y="77" width="38" height="38" as="geometry" />
@@ -114,6 +114,15 @@
         </mxCell>
         <mxCell id="2dmpp8sBlBEj3byJu3uw-41" value="GPT-3&lt;div&gt;Text Generator&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="530" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2dmpp8sBlBEj3byJu3uw-43" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="2dmpp8sBlBEj3byJu3uw-9" target="2dmpp8sBlBEj3byJu3uw-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="510" as="sourcePoint" />
+            <mxPoint x="310" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="480" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
